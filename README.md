@@ -8,15 +8,15 @@ Welcome to our website, a platform designed for video game enthusiasts inspired 
 ### Technologies Used
 To build this site, I used the following technologies:
 
-- Vite: Vite is a build tool that provides a fast and optimized development experience for modern web projects. It allows us to build our website quickly and efficiently.
+- **Vite:** Vite is a build tool that provides a fast and optimized development experience for modern web projects. It allows us to build our website quickly and efficiently.
 
-- TypeScript: TypeScript is a programming language that adds optional static type checking to JavaScript. We chose to use TypeScript to improve the overall reliability and maintainability of our codebase.
+- **TypeScript:** TypeScript is a programming language that adds optional static type checking to JavaScript. We chose to use TypeScript to improve the overall reliability and maintainability of our codebase.
 
-- Chakra-UI: Chakra-UI is a simple, modular and accessible component library that gives us the ability to easily create a modern and responsive user interface. It also provides us with pre-built styles and components that we can use throughout our website.
+- **Chakra-UI:** Chakra-UI is a simple, modular and accessible component library that gives us the ability to easily create a modern and responsive user interface. It also provides us with pre-built styles and components that we can use throughout our website.
 
-- React Query: React Query is a powerful data-fetching library for React applications. It simplifies the process of fetching, caching, and synchronizing data from our backend APIs. React Query handles caching and data synchronization seamlessly, providing a smooth and optimized user experience. With React Query, we were able to manage our data fetching and caching needs effortlessly, enabling us to display up-to-date information to our users while minimizing unnecessary network requests.
+- **React Query:** React Query is a powerful data-fetching library for React applications. It simplifies the process of fetching, caching, and synchronizing data from our backend APIs. React Query handles caching and data synchronization seamlessly, providing a smooth and optimized user experience. With React Query, we were able to manage our data fetching and caching needs effortlessly, enabling us to display up-to-date information to our users while minimizing unnecessary network requests.
 
-- Framer Motion: Framer Motion is a library for creating smooth animations and transitions in React. We use Framer Motion to add a touch of polish to our website and make the user experience more engaging.
+- **Framer Motion:** Framer Motion is a library for creating smooth animations and transitions in React. We use Framer Motion to add a touch of polish to our website and make the user experience more engaging.
 
 Overall, these technologies help us to create a fast, reliable, and user-friendly website that provides a great experience for video game enthusiasts.
 
