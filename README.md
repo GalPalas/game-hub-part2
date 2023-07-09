@@ -16,6 +16,8 @@ To build this site, I used the following technologies:
 
 - **React Query:** React Query is a powerful data-fetching library for React applications. It simplifies the process of fetching, caching, and synchronizing data from our backend APIs. React Query handles caching and data synchronization seamlessly, providing a smooth and optimized user experience. With React Query, we were able to manage our data fetching and caching needs effortlessly, enabling us to display up-to-date information to our users while minimizing unnecessary network requests.
 
+- **Zustand:** Zustand is a lightweight state management library for React. It offers a minimalistic and performant solution for managing state in applications, leveraging React Hooks for simplicity and ease of use.
+
 - **Framer Motion:** Framer Motion is a library for creating smooth animations and transitions in React. We use Framer Motion to add a touch of polish to our website and make the user experience more engaging.
 
 Overall, these technologies help us to create a fast, reliable, and user-friendly website that provides a great experience for video game enthusiasts.
