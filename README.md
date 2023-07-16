@@ -3,7 +3,7 @@
 ![game-hub](https://github.com/GalPalas/3D_Portfolio/blob/master/src/assets/game-hub.jpg?raw=true)
 
 ## Introduction
-Welcome to our website, a platform designed for video game enthusiasts inspired by the popular site, rawg.io. Our platform is designed to provide users with a comprehensive database and social network, allowing them to track their game collections, write reviews, connect with other gamers, and discover new games.
+GameHub is a video game discovery web app that helps you find new and interesting games to play. With GameHub, you can search for games by platform, genre, and more.
 
 ### Technologies Used
 To build this site, I used the following technologies:
